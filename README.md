@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Paul0-Henrique-Da-Silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paul0-Henrique-Da-Silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paul0-Henrique-Da-Silva&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul0-Henrique-Da-Silva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
