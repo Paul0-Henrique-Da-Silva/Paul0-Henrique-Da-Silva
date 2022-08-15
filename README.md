@@ -14,6 +14,7 @@
   <img align="center" height="30" height="40" src="https://img.icons8.com/color/48/000000/redux.png" />
   <img align="center" alt="PH-Jest" height="30" width="40" src=https://camo.githubusercontent.com/fd37a0ed465d6e14411705324a0d21739377f54ab6d0ae146c68fca8777e16c7/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6573742f6a6573742d706c61696e2e737667>
   <img align="center" height="30" height="40" src="https://img.icons8.com/color/344/mysql-logo.png" width="48px" />
+  <img title="Docker" height="30" height="40" src="https://img.icons8.com/fluency/344/docker.png" width="48px" />
   </div>
   
 
