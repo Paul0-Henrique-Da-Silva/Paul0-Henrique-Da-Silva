@@ -19,11 +19,3 @@
   <img align="center" height="30" height="40" src="https://img.icons8.com/color/344/nodejs.png" width="48px" />
   </div>
   
-
- 
-<div> 
-  
-  <a href="https://www.linkedin.com/in/paulo-henrique-da-silva-a129ab231/" target="_blank"></a> 
- 
- 
-</div>
