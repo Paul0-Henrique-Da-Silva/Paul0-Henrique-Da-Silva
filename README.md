@@ -8,13 +8,13 @@ export default {
   linkedin: 'https://www.linkedin.com/in/paulo-henrique-da-silva-a129ab231/',
   contato: '(11) 95398-4878',
   description: {
-    myProfile: `Tenho 27 anos, residindo em Cotia em SP.
+    myProfile: 'Tenho 27 anos, residindo em Cotia em SP.
       Sou tatuador há 4 anos, mas decidi migrar de área, agarrando
-      uma nova perspectiva de futuro para mim através da programação e suas tecnologias.`,
-    myObjective: `Atualmente sou Estudante de Desenvolvimento de Software na Trybe.
+      uma nova perspectiva de futuro para mim através da programação e suas tecnologias.',
+    myObjective: 'Atualmente sou Estudante de Desenvolvimento de Software na Trybe.
       Estou buscando oportunidades para me inserir no mercado como desenvolvedor Full-Stack,
       minha formação é focada em javaScript e procuro aprimorar meus conhecimentos todos os dias,
-      com finalidade explorar minha criatividade ,colocando isto em codigo.`
+      com finalidade explorar minha criatividade ,colocando isto em codigo.'
   }
 };
 ```
