@@ -26,7 +26,7 @@ export default {
 
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,css,html,javascript,react,redux,jest,docker,nodejs,express,mysql,mongo" />
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,css,html,bootstrap,javascript,react,redux,jest,docker,nodejs,express,mysql,mongo" />
 </a>
 </div>
   
