@@ -25,7 +25,7 @@ export default {
 </div>
  
   
-#### :page_with_curl: Front-end
+###### :page_with_curl: Front-end
 
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -36,7 +36,7 @@ export default {
 <img src="https://img.shields.io/badge/-React-787878?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Redux-787878?style=flat&logo=redux&logoColor=5e2597">  
 
-####  📦  Back-end  
+######  📦  Back-end  
 
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/-Sequelize-1572B6?style=flat&logo=sequelize&logoColor=white">  
@@ -45,8 +45,12 @@ export default {
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">  
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker-1572B6?style=flat&logo=docker&logoColor=white">
-  
- #### :wrench: Tools 
+
+###### :hammer: Tests
+<img src="https://img.shields.io/badge/-TestingLibrary-cd0000?style=flat&logo=testingLibrary&logoColor=white">
+<img src="https://img.shields.io/badge/-Jest-31b012?style=flat&logo=jest&logoColor=white">  
+
+###### :wrench: Tools 
 
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-787878?style=flat&logo=github&logoColor=FFFFFF">
@@ -54,11 +58,11 @@ export default {
 <img src="https://img.shields.io/badge/-Insomnia-5e2597?style=flat&logo=insomnia&logoColor=white">  
   
 
-#### :computer: OS
+###### :computer: OS
 <img src="http://img.shields.io/badge/-Windows-007ACC?style=flat&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/-Ubunto-ff4e26?style=flat&logo=ubuntu&logoColor=white">     
 
-## :speech_balloon: Contact
+###### :speech_balloon: Contact
   
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ph46163835@gmail.com)](mailto:ph46163835@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-da-silva-a129ab231)](https://www.linkedin.com/in/paulo-henrique-da-silva-a129ab231)
