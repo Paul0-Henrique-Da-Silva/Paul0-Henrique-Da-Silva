@@ -1,6 +1,3 @@
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ph46163835@gmail.com)](mailto:ph46163835@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-da-silva-a129ab231)](https://www.linkedin.com/in/paulo-henrique-da-silva-a129ab231)
-
 ```javascript
 export default {
   name: 'Paulo Henrique da Silva',
@@ -28,7 +25,7 @@ export default {
 </div>
  
   
-####  :speech_balloon: Front-end
+#### :page_with_curl: Front-end
 
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
@@ -57,9 +54,14 @@ export default {
 <img src="https://img.shields.io/badge/-Insomnia-5e2597?style=flat&logo=insomnia&logoColor=white">  
   
 
-####  OS
+#### :computer: OS
 <img src="http://img.shields.io/badge/-Windows-007ACC?style=flat&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/-Ubunto-ff4e26?style=flat&logo=ubuntu&logoColor=white">     
+
+## :speech_balloon: Contact
+  
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ph46163835@gmail.com)](mailto:ph46163835@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-da-silva-a129ab231)](https://www.linkedin.com/in/paulo-henrique-da-silva-a129ab231)
 
   
   
