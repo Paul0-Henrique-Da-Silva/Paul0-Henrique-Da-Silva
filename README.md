@@ -36,33 +36,30 @@ export default {
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
-
-
-
+<img src="https://img.shields.io/badge/-React-787878?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-Redux-787878?style=flat&logo=redux&logoColor=5e2597">  
 
 ####  📦  Back-end  
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">  
-<img src="https://img.shields.io/badge/-Express.js-787878?style=flat">
+
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Sequelize-1572B6?style=flat&logo=sequelize&logoColor=white">  
+<img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">  
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker-1572B6?style=flat&logo=docker&logoColor=white">
   
  #### :wrench: Tools 
 
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-787878?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/-Insomnia-000000?style=flat&logo=insomnia&logoColor=5e2597"  
+<img src="https://img.shields.io/badge/-Insomnia-5e2597?style=flat&logo=insomnia&logoColor=white">  
   
 
 ####  OS
-  <a href="#">
-      <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</a>
-<a href="#">
-      <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</a>
+<img src="http://img.shields.io/badge/-Windows-007ACC?style=flat&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/-Ubunto-ff4e26?style=flat&logo=ubuntu&logoColor=white">     
+
   
   
