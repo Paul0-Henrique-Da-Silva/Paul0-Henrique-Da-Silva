@@ -4,7 +4,7 @@ export default {
   from: 'Cotia, SP, Brasil',
   profession: 'Desenvolvedor Web Full Stack',
   hobbies: ['Arte', 'Tatuagem artística','Cultura Pop', 'Mecânica em motos'],
-  email: ['ph46163835@gmail.com', 'benignotattoo@gmail.com'],
+  email: 'ph46163835@gmail.com',
   linkedin: 'https://www.linkedin.com/in/Paul0-Henrique-Da-Silva/',
   contato: '(11) 95398-4878',
   description: {
