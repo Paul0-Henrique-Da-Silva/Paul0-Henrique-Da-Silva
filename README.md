@@ -5,7 +5,7 @@ export default {
   profession: 'Desenvolvedor Web Full Stack',
   hobbies: ['Arte', 'Tatuagem artística','Cultura Pop', 'Mecânica em motos'],
   email: ['ph46163835@gmail.com', 'benignotattoo@gmail.com'],
-  linkedin: 'https://www.linkedin.com/in/paulo-henrique-da-silva-a129ab231/',
+  linkedin: 'https://www.linkedin.com/in/Paul0-Henrique-Da-Silva/',
   contato: '(11) 95398-4878',
   description: {
     myProfile: 'Tenho 27 anos, residindo em Cotia em SP.
@@ -37,7 +37,7 @@ export default {
 ###### :speech_balloon: Contact
   
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ph46163835@gmail.com)](mailto:ph46163835@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-henrique-da-silva-a129ab231)](https://www.linkedin.com/in/paulo-henrique-da-silva-a129ab231)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Paul0-Henrique-Da-Silva)](https://www.linkedin.com/in/Paul0-Henrique-Da-Silva)
 
   
  
