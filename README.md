@@ -38,8 +38,8 @@ export default {
    
 ###### :speech_balloon: Contact
   
-[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ph46163835@gmail.com)](mailto:ph46163835@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Paul0-Henrique-Da-Silva)](https://www.linkedin.com/in/Paul0-Henrique-Da-Silva)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ph46163835@gmail.com)](mailto:ph46163835@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Paul0-Henrique-Da-Silva)](https://www.linkedin.com/in/Paul0-Henrique-Da-Silva)
 [![Curriculum Badge](https://img.shields.io/badge/-Curriculum-37513b?style=flat&logo=Contact&logoColor=white&link=https://docs.google.com/document/d/1hAzX8yfISevrKbz2P9Uwq_I0Ozyx1OCo/edit?usp=sharing&ouid=111255368468695881954&rtpof=true&sd=true)](https://docs.google.com/document/d/1hAzX8yfISevrKbz2P9Uwq_I0Ozyx1OCo/edit?usp=sharing&ouid=111255368468695881954&rtpof=true&sd=true)
 
 
