@@ -1,6 +1,6 @@
 
 ## < 👋 Olá, Bem-vindo ao meu perfil no Github! />
-![img](descrisão.png)
+![img](Paul0-Henrique.png)
 
 <div align="lefth">
   <a href="https://github.com/Paul0-Henrique-Da-Silva">
