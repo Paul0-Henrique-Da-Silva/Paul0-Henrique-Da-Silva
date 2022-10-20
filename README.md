@@ -1,25 +1,7 @@
 
 ## < 👋 Olá, Bem-vindo ao meu perfil no Github! />
-```javascript
-export default {
-  name: 'Paulo Henrique da Silva',
-  from: 'Cotia, SP, Brasil',
-  profession: 'Desenvolvedor Web Full Stack',
-  hobbies: ['Arte', 'Tatuagem artística','Cultura Pop', 'Mecânica em motos'],
-  email: 'ph46163835@gmail.com',
-  linkedin: 'https://www.linkedin.com/in/Paul0-Henrique-Da-Silva/',
-  contato: '(11) 95398-4878',
-  description: {
-    myProfile: 'Tenho 27 anos, residindo em Cotia em SP.
-      Sou tatuador há 4 anos, mas decidi migrar de área, agarrando
-      uma nova perspectiva de futuro para mim através da programação e suas tecnologias.',
-    myObjective: 'Atualmente sou Estudante de Desenvolvimento de Software na Trybe.
-      Estou buscando oportunidades para me inserir no mercado como desenvolvedor Full-Stack,
-      minha formação é focada em javaScript e procuro aprimorar meus conhecimentos todos os dias,
-      com finalidade explorar minha criatividade ,colocando isto em codigo.'
-  }
-};
-```
+![img](descrisão.png)
+
 <div align="lefth">
   <a href="https://github.com/Paul0-Henrique-Da-Silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paul0-Henrique-Da-Silva&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
