@@ -17,7 +17,7 @@
 | :mechanical_arm: Superset                   | <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
 |  :hammer: Tests                            | <img src="https://img.shields.io/badge/-TestingLibrary-cd0000?style=flat&logo=testingLibrary&logoColor=white"> <img src="https://img.shields.io/badge/-Jest-31b012?style=flat&logo=jest&logoColor=white"> <img src="https://img.shields.io/badge/-Mocha-7e4813?style=flat&logo=mocha&logoColor=white">|
 |  :wrench: Tools                             |  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-787878?style=flat&logo=github&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/-Insomnia-5e2597?style=flat&logo=insomnia&logoColor=white"> <img src="http://img.shields.io/badge/-SublimeText-e2a223?style=flat&logo=sublimeText&logoColor=FFFFFF">  |  
-| :computer: OS                               | <img src="http://img.shields.io/badge/-Windows-007ACC?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/-Ubunto-ff4e26?style=flat&logo=ubuntu&logoColor=white"> |    
+| :computer: OS                               | <img src="http://img.shields.io/badge/-Windows-007ACC?style=flat&logo=windows&logoColor=white"> <img src="https://img.shields.io/badge/-Ubunto-ff4e26?style=flat&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/-gentoo-563D7C?style=flat&logo=gentoo&logoColor=white"> |    
   
    
 ###### :speech_balloon: Contact
